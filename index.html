@@ -1,0 +1,31 @@
+---
+layout: default
+title: Corey Grusden
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Other Interviews, Talks, Etc</h1>
+  <ul class="posts">
+    <li><span>11 Oct 2016</span> &raquo; <a href="https://soundcloud.com/cut-the-crap-podcast/42-corey-grusden-on-built-to">Interview: Cut the Crap Podcast - Built to Sell</a></li>
+    <li><span>15 Nov 2016</span> &raquo; <a href="https://www.bizjournals.com/jacksonville/news/2016/11/15/how-a-jacksonville-based-startup-caught-the-eye-of.html">Article: How a Jacksonville-based startup caught the eye of Slack, Microsoft, Marriott, American Airlines and GE... all with a plug-in</a></li>
+    <li><span>7 Sep 2016</span> &raquo; <a href="https://www.collaborationsuperpowers.com/115-build-ideas-that-make-money-with-corey-grusden-of-sofetch-io/">Interview: Build Ideas That Make Money</a></li>
+    <li><span>11 Aug 2016</span> &raquo; <a href="https://blog.trello.com/12-productivity-bots-work-smarter">Mentioned: Love Working Smarter? These Are the 12 Productivity Bots You’re Looking For</a></li>
+    <li><span>9 Aug 2016</span> &raquo; <a href="https://thisdevelopingstory.com/tds-65-corey-grusden">Interview: How I started programming</a></li>
+    <li><span>12 Apr 2016</span> &raquo; <a href="http://thestart.fm/#/interviews/35">Interview: The Gamer</a></li>
+    <li><span>16 Sep 2015</span> &raquo; <a href="https://blog.dnsimple.com/2015/09/interview-corey-grusden-sofetch/">Article: Building a consultancy by measuring twice and cutting once</a></li>
+  </ul>
+
+  <!--
+  <h1>Hobbies, Random Videos</h1>
+  <ul class="posts">
+    <li><span>15 Nov 2016</span> &raquo; <a href="https://www.bizjournals.com/jacksonville/news/2016/11/15/how-a-jacksonville-based-startup-caught-the-eye-of.html">Article: How a Jacksonville-based startup caught the eye of Slack, Microsoft, Marriott, American Airlines and GE... all with a plug-in</a></li>
+  </ul>
+  -->
+</div>
