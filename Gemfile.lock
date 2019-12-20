@@ -243,6 +243,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-sitemap
 
 RUBY VERSION
    ruby 2.6.0p0
