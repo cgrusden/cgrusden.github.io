@@ -23,7 +23,7 @@ Tristan Harris is one of those people. You can find his website and more informa
 
 ### The turning point in my life where I felt my productivity being sucked away
 
-I worked for a consulting company, Hashrocket, in Jacksonville, FL. It was still a  brand new company around the time the iPhone came out. I remember the day before all of us were figuring out where to get our hands on one. As for me, I wasn’t really wanting one since they were expensive and I didn’t really care about having a small computer in my hand. Somehow though, working in a room of ten other geeks that all wanted one, I felt pressure and my first taste of _“keeping up with the Joneses’_
+I worked for a consulting company, [Hashrocket](https://hashrocket.com/), in Jacksonville, FL. It was still a  brand new company around the time the iPhone came out. I remember the day before all of us were figuring out where to get our hands on one. As for me, I wasn’t really wanting one since they were expensive and I didn’t really care about having a small computer in my hand. Somehow though, working in a room of ten other geeks that all wanted one, I felt pressure and my first taste of _“keeping up with the Joneses’_
 
 I bought an iPhone that day and that is the exact moment in my life that my focus, distraction, and productivity took a turn for the worse.
 
