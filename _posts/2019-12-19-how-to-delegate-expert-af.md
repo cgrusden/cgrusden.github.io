@@ -6,10 +6,10 @@ categories: [business, framework]
 # How to delegate expert AF
 
 ### Everyone online always says “Just force yourself to do it”
-For some odd reason the cliche when asking someone how to delegate they always say, “Just force yourself to delegate everything you do everyday”.  What the fuck does that mean? I get the concept, but we leave in a world of concrete examples. 
+For some odd reason the cliche when asking someone how to delegate they always say, “Just force yourself to delegate everything you do everyday”.  What the fuck does that mean? I get the concept, but we live in a world of concrete examples. 
 
 ### WTF does that mean?
-We humans are **terrible** at discipline that’s why there are entire bookshelfs in bookstores filled with self-help books on how to get something done. Not too mention, thats why we have “project managers” at work these days.  
+We humans are **terrible** at discipline that’s why there are entire bookshelfs in bookstores filled with self-help books on how to get something done. Thats also why we have “project managers” in the office space these days.  
 
 When I hear “just force yourself to do it” I realized you have to find out whatever it is you do everyday that you can remove that requires you to figure out a way to get the work done. Think of any tradesman, this seems extreme and don’t do this at home, but imagine if they took a hammer to one of their hands, now they’re out of commission. Theres a better way I’m sure, but it illustrates the point of taking whatever tool you use the most during the day to get your job done out of the equation and find a way to still get the work done. 
 
