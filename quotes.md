@@ -16,4 +16,6 @@ title: "Quotes I live by"
 
 “They don’t respect bootlickers.” _—Cowboy saying_
 
+"Like your wife says, hold the fucking position until I tell you I’m done." _-Bobby Axelrod (Billions; tv show)_
+
 "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me." _-Erma Bombeck_
