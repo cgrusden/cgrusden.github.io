@@ -19,3 +19,5 @@ title: "Quotes I live by"
 "Like your wife says, hold the fucking position until I tell you I’m done." _-Bobby Axelrod (Billions; tv show)_
 
 "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me." _-Erma Bombeck_
+
+“So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard.” _-Caterina Fake_
