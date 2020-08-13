@@ -26,3 +26,8 @@ title: "Quotes I live by"
 _-Winston Churchill_
 
 “What if I fall? Oh,but my darling,what if you fly?” _― Erin Hanson_
+
+"All men's miseries derive from not being able to sit in a quiet room alone." _-Blaise Pascal_
+
+
+“Muddy water is best cleared by leaving it alone.” _-Alan Watts_
