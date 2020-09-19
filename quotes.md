@@ -29,5 +29,21 @@ _-Winston Churchill_
 
 "All men's miseries derive from not being able to sit in a quiet room alone." _-Blaise Pascal_
 
-
 “Muddy water is best cleared by leaving it alone.” _-Alan Watts_
+
+ “A pint of sweat will save a gallon of blood.” _-General Patton_
+
+“Moral courage is the most valuable and usually the most absent characteristic in men.” _-General Patton_
+
+“A good plan, violently executed now, is better than a perfect plan next week.” _-General Patton_
+
+“Lead me, follow me, or get out of my way. “ _-General Patton_
+
+“Do everything you ask of those you command.”  _-General Patton_
+
+“Say what you mean and mean what you say.”  _-General Patton_
+
+“Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.”  _-General Patton_
+
+“Moral courage is the most valuable and usually the most absent characteristic in men.” _-General Patton_
+
