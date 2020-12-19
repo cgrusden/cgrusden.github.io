@@ -2,6 +2,8 @@
 title: "Quotes I live by"
 ---
 
+“A person who aims at nothing is sure to hit it.” _—Anonymous_
+
 “Never give in. Never give in. Never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy.” _― Winston Churchill_
 
 "Disobedience, in the eyes of any one who has read history, is man's original virtue. It is through disobedience that progress has been made, through disobedience and through rebellion." _- Oscar Wilde_
