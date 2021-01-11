@@ -51,3 +51,5 @@ _-Winston Churchill_
 
 “Moral courage is the most valuable and usually the most absent characteristic in men.” _-General Patton_
 
+“If you are positive, you’ll see opportunities instead of obstacles.” _–Confucious_
+
