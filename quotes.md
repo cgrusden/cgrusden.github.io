@@ -53,3 +53,4 @@ _-Winston Churchill_
 
 “If you are positive, you’ll see opportunities instead of obstacles.” _–Confucious_
 
+“Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.” _–Mary Lou Retton_
