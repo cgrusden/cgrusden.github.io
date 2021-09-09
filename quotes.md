@@ -1,6 +1,7 @@
 ---
 title: "Quotes I live by"
 ---
+"change even when its for the better, is uncomfortable" _D_
 
 “A person who aims at nothing is sure to hit it.” _—Anonymous_
 
@@ -25,9 +26,6 @@ title: "Quotes I live by"
 "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me." _-Erma Bombeck_
 
 “So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard.” _-Caterina Fake_
-
-“Never give in. Never give in. Never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy.”
-_-Winston Churchill_
 
 “What if I fall? Oh,but my darling,what if you fly?” _― Erin Hanson_
 
