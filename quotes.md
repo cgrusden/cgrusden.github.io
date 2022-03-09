@@ -1,6 +1,9 @@
 ---
 title: "Quotes I live by"
 ---
+
+“An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity.”  _MLK_
+
 "change even when its for the better, is uncomfortable" _D_
 
 “A person who aims at nothing is sure to hit it.” _—Anonymous_
