@@ -1,0 +1,17 @@
+- name: Fawns Small Dog Rescue
+  url: https://www.fawnssmalldogrescue.org
+  donations: https://www.fawnssmalldogrescue.org/donatesponsor
+  location: Orange Park 
+  phone: 904-773-3553 
+
+- name: Paw Paws Rescue
+  url: http://pawpawspetrescue.com/index.html
+  donations: http://pawpawspetrescue.com/donations.html
+  location: Yulee
+  phone: 904-383-9257 
+  email: pawpawsrescue@gmail.com
+
+- name: Roland Senior Dog Rescue
+  url: https://rolandrescuegang.com
+  donations: https://rolandrescuegang.com/donate
+  location: Melrose (near Keystone Heights)

@@ -1,4 +1,5 @@
 |Rescue| Donations Page |Location in Jacksonville|
 |------|----------------|------------------------|
-| [Fawns Small Dog Rescue](https://www.fawnssmalldogrescue.org) | [Donate](https://www.fawnssmalldogrescue.org/donatesponsor) | Orange Park |
-| [Roland Senior Dog Rescue](https://rolandrescuegang.com) | [Donate](https://rolandrescuegang.com/donate) | Melrose (near Keystone Heights) |
+{% for rescue in site.data.rescues %}
+| {{rescue.name}} | [Donation]({{rescue.donations}}) | {{rescue.location}} | 
+{% endfor %}
