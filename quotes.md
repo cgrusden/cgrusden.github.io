@@ -2,6 +2,8 @@
 title: "Quotes I live by"
 ---
 
+“I learned that from running. You can get a lot of shit done in a day, if you keep moving” _Jesse Itzler_
+
 “An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity.”  _MLK_
 
 "change even when its for the better, is uncomfortable" _D_
