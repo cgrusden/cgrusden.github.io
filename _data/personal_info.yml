@@ -1,0 +1,27 @@
+- name: 'Interview: Cut the Crap Podcast - Built to Sell'
+  date: '11 Oct 2016'
+  url: "https://tunein.com/podcasts/Business/Cut-the-Crap-Podcast-p833229/?topicId=124532348"
+
+- name: 'Article: How a Jacksonville-based startup caught the eye of Slack, Microsoft, Marriott, American Airlines and GE... all with a plug-in'
+  date: '15 Nov 2016'
+  url: "https://tunein.com/podcasts/Business/Cut-the-Crap-Podcast-p833229/?topicId=124532348"
+
+- name: 'Interview: Build Ideas That Make Money'
+  date: '7 Sep 2016'
+  url: "https://www.collaborationsuperpowers.com/115-build-ideas-that-make-money-with-corey-grusden-of-sofetch-io/"
+
+- name: 'Mentioned: Love Working Smarter? These Are the 12 Productivity Bots You’re Looking For'
+  date: '11 Aug 2016'
+  url: "https://blog.trello.com/12-productivity-bots-work-smarter"
+
+- name: 'Interview: How I started programming'
+  date: '9 Aug 2016'
+  url: "https://thisdevelopingstory.com/episodes/b5bd24fa"
+
+- date: '12 Apr 2016'
+  url: "http://thestart.fm/#/interviews/35"
+  name: 'Interview: The Gamer'
+
+- date: '16 Sep 2015'
+  url: "https://blog.dnsimple.com/2015/09/interview-corey-grusden-sofetch/"
+  name: 'Article: Building a consultancy by measuring twice and cutting once'
