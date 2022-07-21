@@ -7,4 +7,3 @@ title: "Quotes I live by"
 "{{ entry.quote }}" -_{{ entry.author }}_
 
 {% endfor %}
-
