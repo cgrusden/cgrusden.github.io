@@ -15,3 +15,7 @@ The oil field in western Siberia (Russia), is operated by Gazprom.
 ### Nord Stream 2
 
 Nordstream 2 is owned and planned by Nord Stream 2 AG who is *wholly owned* by Gazprom.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Nord_Stream)
+
+[Nord Stream AG](https://www.nord-stream.com)
