@@ -1,3 +1,5 @@
 Add new page via THOR command line
 
 $ thor jekyll:new something interesting to write about
+
+https://khalidabuhakmeh.com/thor-commands-for-jekyll
