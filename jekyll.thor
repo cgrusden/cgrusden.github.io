@@ -40,12 +40,12 @@ class Jekyll < Thor
       post.puts "---"
       post.puts "layout: post"
       post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
-      post.puts "tags:"
-      post.puts "image: "
-      post.puts "image_credit_name: "
-      post.puts "image_credit_url: "
-      post.puts "image_alt: "
-      post.puts "---"
+      # post.puts "tags:"
+      # post.puts "image: "
+      # post.puts "image_credit_name: "
+      # post.puts "image_credit_url: "
+      # post.puts "image_alt: "
+       post.puts "---"
     end
     
     system(options[:editor], '.')
