@@ -9,7 +9,9 @@ image_alt:
 ---
 
 # Maxing out your 401k early in the year
-When I was in my early 20’s, a guy I worked with was smart as shit about finances and told me to max out my 401k as quick as I could in the beginning of the year. I was single, no dependents, etc… So I did just that.
+When I was in my early 20’s, a guy I worked with was smart as shit about finances and told me to max out my 401k as quick as I could in the beginning of the year since it would have the rest of the year to grow. The idea being, you could get $14,000 into the 401k in the first 4 months, you could have 8 more months potentially of bigger gains off $14,000, instead of putting $1,000/month and losing out to compound interest over a longer period of time. 
+
+I was single, no dependents, etc… So I listened to him.
 
 I was making about $1,000/week. After taxes, because I was single and claimed zero dependents on my W4, I was taking home about $600-700/week. After making a 40k1 contribution of $300, that left me $300 in my pocket for the week. The job doesn’t take the 401k contribution out first, pre-tax, and then calculate the taxes I have to pay. The IRS does that at the end of the year. The job didn’t care about keeping the books for me.  So I had to get smart about the taxes that the job is taking out first, before making my 401k contribution.
 
