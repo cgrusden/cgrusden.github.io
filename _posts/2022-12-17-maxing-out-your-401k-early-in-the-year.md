@@ -8,7 +8,6 @@ image_credit_url:
 image_alt: 
 ---
 
-# Maxing out your 401k early in the year
 When I was in my early 20’s, a guy I worked with was smart as shit about finances and told me to max out my 401k as quick as I could in the beginning of the year since it would have the rest of the year to grow. The idea being, you could get $14,000 into the 401k in the first 4 months, you could have 8 more months potentially of bigger gains off $14,000, instead of putting $1,000/month and losing out to compound interest over a longer period of time. 
 
 I was single, no dependents, etc… So I listened to him.
