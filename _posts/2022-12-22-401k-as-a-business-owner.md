@@ -15,4 +15,4 @@ So the benefit of being the owner of a business, solo or not, you can sock away 
 
 Granted, you’ll need to make an income of at least $264,000 to touch the max 25% contribution. It’s still better than 22,500$ max. 
 
-Personally, if you haven’t done anything yet, I would open a ROTH IRA and focus on filling that up for the year first. 
+I love SEP's. 
