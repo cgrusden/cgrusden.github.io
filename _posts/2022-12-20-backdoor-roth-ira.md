@@ -5,7 +5,7 @@ category: 'finance'
 tags: 'personal'
 ---
 
-You’ll hear this term thrown around. All this means is, you have a regular retirement account of some sorta, like a Traditional 401K or IRA  that has a lot of money in it and you want to move some of that money into a ROTH IRA.
+You’ll hear this term thrown around. All this means is, you have a regular retirement account of some sort. A Traditional 401K or IRA that has a lot of money in it and you want to move some of that money into a ROTH IRA. The reason why you would want to send your money through the backdoor into the ROTH is because the ROTH IRAs have extremely low annual contribution limits. You can only put in a few thousand dollars each year. The backdoor method allows you to slam a shit ton of money into the ROTH. It's dumb, but it is what it is.
 
 First, you’d need to have a traditional IRA or 401k account already that has a significant amount of money in it in my opinion. Hundreds of thousands of dollars would be a good start. Then you would have to open a ROTH IRA account. 
 
