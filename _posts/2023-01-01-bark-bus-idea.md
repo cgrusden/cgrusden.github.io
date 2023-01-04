@@ -3,13 +3,13 @@ layout: post
 title: "IDEA: Bark Bus"
 ---
 
-I've had this idea for quite some time. I came up with it, after i saw [this dude in Texas](https://www.boredpanda.com/rescued-dog-train-tractor-stray-eugene-bostick/?utm_source=google&utm_medium=organic&utm_campaign=organic).
+I've had this idea for quite some time. I came up with it after i saw [what this dude in Texas did for his rescued animals](https://www.boredpanda.com/rescued-dog-train-tractor-stray-eugene-bostick/?utm_source=google&utm_medium=organic&utm_campaign=organic).
 
 I want to help animals in shelters and rescues get adopted. Pets in rescues and shelters are an unfortunate byproduct of domesticating animals to be pets. 
 
 And everytime I think about pets, I think about a quote from Ghandi:
 
-*_“The greatness of a nation and its moral progress can be judged by the way its animals are treated.”_*
+*“The greatness of a nation and its moral progress can be judged by the way its animals are treated.”*
 
 The immediate problem is that there are a lot of pets in shelters, and people continue to go out and buy pets from breeders. Sure, there can be behaviour problems with a rescued pet, but we suck as a nation if we just discard the unfavorable ones and go get new one. I find that extremely wasteful.
 
