@@ -1,0 +1,12 @@
+---
+layout: default
+title: Corey Grusden
+---
+
+<div id="home">
+  <ul class="posts">
+    {% for link in site.data.personal_info %}
+	    <li><span>{{ link.date }}</span> &raquo; <a href="{{ link.url }}">{{ link.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
