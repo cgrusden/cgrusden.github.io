@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piano Sheet Music Flashcard App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        #flashcard {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        canvas {
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+        }
+        input {
+            padding: 8px;
+            margin: 5px;
+        }
+        button {
+            padding: 8px 16px;
+            margin: 5px;
+            cursor: pointer;
+        }
+        #feedback {
+            font-weight: bold;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="flashcard">
+        <canvas id="staff" width="300" height="200"></canvas>
+        <br>
+        <input type="text" id="guess" placeholder="Enter note (e.g., C4)">
+        <button onclick="checkGuess()">Submit</button>
+        <p id="feedback"></p>
+        <button onclick="newCard()">Next Card</button>
+    </div>
+
+    <script>
+        const notes = ['C4', 'D4', 'E4', 'F4', 'G4', 'A4', 'B4', 'C5'];
+        let currentNote;
+
+        function getNotePosition(note) {
+            const positions = {
+                'C4': 160,
+                'D4': 150,
+                'E4': 140,
+                'F4': 130,
+                'G4': 120,
+                'A4': 110,
+                'B4': 100,
+                'C5': 90
+            };
+            return positions[note];
+        }
+
+        function drawStaff(ctx) {
+            ctx.strokeStyle = '#000';
+            ctx.lineWidth = 1;
+            for (let i = 0; i < 5; i++) {
+                ctx.beginPath();
+                ctx.moveTo(20, 60 + i * 20);
+                ctx.lineTo(280, 60 + i * 20);
+                ctx.stroke();
+            }
+        }
+
+        function drawClef(ctx) {
+            ctx.font = '80px serif';
+            ctx.fillText('\uD834\uDD1E', 30, 130); // Unicode for treble clef
+        }
+
+        function drawLedgerLines(ctx, y) {
+            if (y > 140) {
+                if (y === 160) { // Ledger for C4
+                    ctx.beginPath();
+                    ctx.moveTo(130, 160);
+                    ctx.lineTo(170, 160);
+                    ctx.stroke();
+                }
+            }
+        }
+
+        function drawNote(ctx, note) {
+            const y = getNotePosition(note);
+            drawStaff(ctx);
+            drawClef(ctx);
+            drawLedgerLines(ctx, y);
+
+            // Note head (filled oval)
+            ctx.beginPath();
+            ctx.ellipse(150, y, 12, 9, 0, 0, Math.PI * 2);
+            ctx.fill();
+
+            // Stem (upward for simplicity)
+            ctx.beginPath();
+            ctx.moveTo(162, y);
+            ctx.lineTo(162, y - 60);
+            ctx.stroke();
+        }
+
+        function newCard() {
+            const canvas = document.getElementById('staff');
+            const ctx = canvas.getContext('2d');
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            currentNote = notes[Math.floor(Math.random() * notes.length)];
+            drawNote(ctx, currentNote);
+            document.getElementById('guess').value = '';
+            document.getElementById('feedback').innerText = '';
+        }
+
+        function checkGuess() {
+            const guess = document.getElementById('guess').value.toUpperCase();
+            const feedback = document.getElementById('feedback');
+            if (guess === currentNote) {
+                feedback.innerText = 'Correct!';
+                feedback.style.color = 'green';
+            } else {
+                feedback.innerText = `Wrong! It's ${currentNote}.`;
+                feedback.style.color = 'red';
+            }
+        }
+
+        // Initialize first card
+        window.onload = newCard;
+    </script>
+</body>
+</html>
